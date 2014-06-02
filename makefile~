@@ -1,8 +1,0 @@
-FLAGS = -g -Wall -static
-
-randomClass: randomClass.c
-	gcc ${FLAGS} -o randomClass randomClass.c
-
-
-clean:
-	rm randomClass
