@@ -32,10 +32,10 @@ int main(int argc, char *argv[])
 		}
 	}
 	
-	char support[NUMSUPPORT+1][80];
+	char support[NUMSUPPORT][80];
 	int supportSize[NUMSUPPORT];
 	int numSupport[MAXSUPPORT];
-	char a[NUMCLASS][80];
+	char a[NUMCLASS+1][80];
 	
 	char line[80];
 	int counter;
@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
 		
 		counter++;
   }
-
+	
   fclose(fr);  /* close the file prior to exiting the routine */
 
 	supportFile = fopen ("support.txt", "rt");
@@ -197,7 +197,6 @@ current = ran(NUMCLASS);
 		printf("Support %d: %s\n", run2 + 1, support[numSupport[run2]]);
 		
 	}
-
 
 	return 0;
 
