@@ -1,0 +1,662 @@
+Black Magic Amp
+2
+1
+Black Magic is stronger but costs more MP
+Absorb M. Damage
+4
+1
+Restores health when taking M. Damage
+Save BM MP
+6
+2
+Black Magic Costs 25% less MP
+Zero
+8
+1
+Magic deals more damage when last digit of MP = 0
+Convergence
+9
+3
+Multi-target spells become powerful single target spells
+Status Ailment Amp
+11
+1
+Satus Ailments are more powerful
+Max Black Magic
+13
+3
+Black Magic is stronger but costs more MP
+Rod Lore
+2
+1
+Gain S Rank in Rods
+Abate Fire
+4
+1
+Reduces Fire Damage
+Damage Dispersion
+5
+1
+Disperse 15% of Single Target Damage to Allies
+Silence Immunity
+6
+1
+Prevents Silence Status
+Black Resonance
+8
+1
+Raises Black Magic damage with each ally who has Black Resonance
+M. Attack 20% Up
+10
+2
+Magic Attack increases by 20%
+Pierce M. Defense
+12
+3
+Ignore target's M. Defense
+Group-Cast All
+14
+3
+Magic can target all
+Steady MP Recover
+2
+1
+Restore 30 MP at end of turn
+Critical MP Recover
+4
+1
+Recover 200 MP when HP falls below 20%
+Save SM MP
+6
+2
+Summon magic costs 25% less MP
+Post-Battle MP
+7
+2
+Recover 25% Max MP at end of battle
+Obliterate
+9
+4
+Cause instant death to enemies 20 levels lower than user at start of battle
+Max Summoning
+11
+3
+MP Cost of summons doubles and power is increased by 1.5 times
+MP 30% Up
+12
+3
+Increase MP by 30%
+Experience Up
+14
+1
+Gain 1.5 times more XP from battle
+Abate Dark
+2
+1
+Reduces damage from Dark
+Adversity
+3
+1
+Attack and Defense power rise proportional to damage taken
+See You In Hell
+5
+3
+When KO'd, damages all enemies
+Helm Lore
+7
+1
+Helm Rating becomes S Rank
+Gloom
+9
+1
+Increase damage dealt by Dark
+P. Attack 30% Up
+12
+3
+P. Attk increases by 30%
+Divining Rod
+3
+1
+Displays # of unopened chests
+Dungeon Master
+4
+1
+Avoids damage and negative effects of dungeon traps
+MP 10% Up
+7
+1
+Raises Max MP by 10%
+Poison Immunity
+9
+1
+Immune to poison
+JP Up
+10
+1
+Earn 1.2 times JP in battle
+Flee
+11
+1
+Always succeed in fleeing form battle. May not work in some cases
+Lure Enemy
+12
+1
+Field Encounter Rate raised 100%
+Stand Ground
+13
+3
+When KO'd, 75% to survive with 1 HP (except when HP = 1)
+Two-Handed
+2
+1
+Doubles Weapon Power if held in both hands
+P. Defense 10% Up
+3
+1
+Increases Physical Defense by 10%
+Protect Ally
+5
+1
+Take Single Target Damage from Ally with less than 20% HP
+Shield Lore
+7
+1
+Raises Shield Skill to S Rank
+Sword Lore
+9
+1
+Raises Sword Skill to S Rank
+Dual Shields
+11
+1
+Can Equip Shields in both hands. Unable to fight
+P. Defense 30% Up
+12
+3
+P. Defense increased by 30%
+Chivalrous Spirit
+13
+1
+Raise P. Defense by 25% each time Protect Ally, Full Cover, or White
+White Knight
+3
+1
+Protected by party member with highest HP when HP is below 20%
+Speculate
+8
+1
+50% chance to deal double damage, 50% chance to deal none
+More Money
+9
+2
+Earn 150% money after battle
+HP 10% Up
+4
+1
+Increase Max HP by 10%
+Knuckle Lore
+5
+1
+Raises Knuckle Weapons to S Rank
+Blind Immunity
+8
+1
+Prevents Blind status
+P. Attack 10% Up
+9
+1
+Increase P. Atk by 10%
+HP 20% Up
+10
+2
+Increase HP by 20%
+HP 30% Up
+12
+3
+Increase HP by 30%
+Natural Talent
+14
+1
+P. Atck increase by 100% when nothing is equipped
+Transience
+2
+1
+Counterattack 100% damage after evading
+Evade 10% Up
+3
+1
+Increases Evasion 10%
+Comeback Kid
+5
+1
+Increaes P. Atk & M. Atk by 25% for 3 turns after evading attack
+Cleave
+7
+1
+Have a chance to perform extra attack after defeating enemy
+Evade 20% Up
+8
+2
+Increase Evasion by 20%
+Dual Wield
+11
+2
+Reduces Dual Wield Penalty
+Evade 30% Up
+13
+3
+Increase Evastion by 30%
+Frentic Fighting
+14
+2
+Extend Users hit count to 32
+Support Amp
+6
+1
+Adds 10% to stat-raising effects, Subtract 10% from stat-lowering
+Buff Up
+9
+2
+Raises P. And M. Atk and Def by 5% for 5 turns at end of each turn
+Prolong Support
+10
+2
+Double duration of support abilities
+Charm Immunity
+11
+1
+Immune to Charm status
+Save Singing MP
+12
+2
+Reduces MP cost of Singing by 50%
+Adrenaline Rush
+8
+2
+Atk. and Def. rise 50% when HP below 20%
+P. Attack 20% Up
+9
+2
+P. Atk rises by 20%
+Axe Lore
+12
+1
+Skill in Axes becomes S rank
+Paralyze Immunity
+5
+1
+Immune to Paralyze status
+Bow Lore
+8
+1
+Raises Bow Skill to S Rank
+Hawkeye
+12
+1
+Accuracy becomes 200%
+Precision
+13
+2
+Normal attacks have increased damage
+MP 20% Up
+2
+2
+Raises Max MP by 20%
+Turn Tables
+4
+1
+Raises BP by 1 after evading
+MP Free in a Pinch
+5
+2
+0 Mana Cost when HP below 20%
+Adrenaline
+7
+1
+BP rises by 1 when attack defeats enemy
+Save Magic MP
+8
+3
+Lowers MP cost of Black, White, Time, Summon Magic by 25%
+BP Recovery
+9
+1
+Enables BP to rise by 2 when sustaining status effect
+Revenge
+11
+2
+25% raise BP when taking damage
+Revival
+12
+2
+75% chance to raise BP by 2 when HP under 20%
+An Eye for an Eye
+13
+1
+Chance of crit will rise by 900% for 5 turns after HP falls below 20%
+In the Red
+14
+1
+Increases M. Damage when BP is negative
+Attack Item Amp
+4
+1
+1.5x damage from attack items
+Auto-Potion
+6
+1
+Uses potion on self when taking damage
+Shorten Ailment
+7
+1
+50% higher chance to cure ailment at start of turn
+Healing Lore
+9
+2
+Doubles effectivenes of all HP or MP recovery
+Auto-Phoenix
+11
+2
+Uses Phoenix Down if an ally is in KO state.
+Feel No Pain
+14
+3
+HP won't fall for two turns after battle beg
+Firewall
+3
+1
+50% to counter with fire damage
+Auto-Aspir Blade
+5
+1
+Physical attacks steal MP
+Magic Armor
+6
+1
+Abate damage of the same type your sword is
+Memento
+8
+3
+Restores 50% MP to allies when KO'd
+Anti-Magic
+10
+2
+M. Defense increases after taking magic damage
+Sword Magic Amp
+11
+1
+Sword Magic costs more MP and deals more damage
+M. Def Specialize
+13
+1
+P. Def drops by 50%, M. Def rises by 100%
+Phantom Weapon
+14
+3
+Damage from equipped weapon added to attacks
+Auto-Shell
+2
+1
+Casts Shell at start of battle
+M. Defense 20% Up
+3
+2
+M. Def increases by 20%
+Save WM MP
+6
+2
+White Magic costs 25% less MP
+Holy One
+9
+2
+250% increase to recovery magic, decrease P. Atk by 25%
+Maximize HP
+14
+3
+Max HP doubles during battle
+Abate Lightning
+2
+1
+Reduce Lightning Damage
+Friendship
+5
+1
+Doubles affinity gained from friend summons
+Summoning Amp
+6
+2
+Summon Magic has power and MP cost increased by 25%
+Summon Substitute
+9
+1
+When KO'd, uses a random summon
+Convert MP
+11
+3
+Restore MP equal to 1% damage taken
+Summoning Surge
+12
+3
+Increase summon based on times summon has been used
+Summon in Pinch
+13
+3
+Auto uses random summon when below 20% HP
+Amp Friends
+14
+1
+Increases effect of Friend Summons
+Abate Earth
+2
+1
+Reduces Earth Damage
+Katana Lore
+3
+1
+Gain S Rank in Katanas
+Multitask
+5
+2
+25% chance to follow up attack with additional attack
+Counter
+6
+2
+60% chance to counter single target P. Atk
+Confusion Immunity
+7
+1
+Immune to Confusion status
+Counter Amp
+9
+1
+Counters with 400% normal damage
+Redoubled Effort
+11
+2
+P. Atk raises based on current BP (1=x1.1 2=x1.21 3=x1.33 4=x1.46)
+Slow and Steady
+13
+1
+After Default, speed raised to max for 2 turns
+Abate Light
+2
+1
+Reduce Light Damage
+P. Defense 20% Up
+3
+2
+P. Defense increased by 20%
+Magic Critical
+5
+1
+Become able to crit with magic
+Default Guard
+6
+1
+Reduces Damage by 75% when Defaulting
+Item Critical
+8
+1
+Able to crit with items
+BP Limit Up
+11
+1
+Raises Max BP to 4
+Armor Lore
+13
+1
+Armor rating becomes S Rank
+Abate Wind
+2
+1
+Reduces Wind Damage
+Speed 10% Up
+3
+1
+Increase Speed by 10%
+Speed 20% Up
+5
+2
+Increase Speed by 20%
+Raid
+7
+1
+Raises allies BP by 1 when party gets First Strike or bonus BP
+Dagger Lore
+8
+1
+Dagger Skill increased to S Rank
+Master Thief
+10
+3
+Success rate of stealing rises by 50%
+Rob Blind
+11
+2
+Steal 2 items instead of 1
+Speed 30% Up
+13
+3
+Increase Speed by 30%
+Burgle and Buff
+14
+1
+Raise P. Atk by 25% when stealing
+M. Attack 10% Up
+2
+1
+M. Atk increases by 10%
+Slow Parry
+3
+1
+Casts Slow on enemy when attacked
+Time Slip
+5
+3
+When battle is lost, battle is restarted
+Stop Immunity
+7
+1
+Prevents Stop Status
+Save TM MP
+9
+2
+Time Magic costs 20% less MP
+Slow World
+11
+2
+All enemies and allies lose 1 BP per 2 turns
+M. Attack 30% Up
+13
+3
+M. Atk increases by 30%
+Hasten World
+14
+2
+All enemies and allies gaint 1 BP at end of turn
+Spear Lore
+3
+1
+Gain S Rank in Spears
+BP Skill Amp
+7
+3
+BP using skills cost +1 BP and raise damage by x1.5
+Pierce Default
+10
+2
+Attack damage not reduced by enemy default
+Soul Mates
+11
+1
+ When ally falls, P. and M. Atk raise by 25% for 5 turns
+Aerials
+12
+1
+When jumping, amount of air increases by 1 t
+Sky High
+13
+3
+Start battle already jumping
+Absorb P. Damage
+2
+1
+Recover HP when attacked
+Bloodlust
+4
+1
+Atk and Def power increase whenever enemy is defeated
+Monster Ability Up
+7
+1
+Increases damage dealt by Genome Abilities
+Self-Restore
+10
+1
+Recover HP after Battle
+Drain Attack Up
+12
+1
+Increase damage of absorb attacks
+Genome Drain
+13
+1
+Can learn Genome Abilities when not Vampire
+Rise from Dead
+14
+1
+If KO'd, chance of reviving at end of turn.
+M. Defense 10% Up
+2
+1
+Raises Magical Defense by 10%
+Staff Lore
+4
+1
+Gain S Rank in Staffs
+Self-Healing
+5
+1
+Recover from blind, poison, and silence at end of battle
+Abate Water
+7
+1
+Reduce damage from Water
+Angelic Ward
+8
+1
+50% chance to recieve half damage
+M. Defense 30% Up
+10
+3
+Raise M. Def by 30%
+Epic Group-Cast
+12
+3
+Magic cast on mutiple targets retains full strength
+Conservation of Life
+14
+3
+Bring back all allies from KO and restore HP when you suffer a KO
+
+
